@@ -14,7 +14,7 @@ class Student {
   }
 }
 
-public class constructors {
+public class Constructors {
   public static void main(String[] args) {
     Student s1 = new Student("Ravi", 20);   
     s1.display();
